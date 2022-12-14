@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I specialize in Data Analytics. I Love Story telling with Data. My passion is finding and sharing actionable insights to make data-driven decisions.
+I specialize in Data Analytics. I love story telling with Data. My passion is finding and sharing actionable insights to make data-driven decisions.
+⚡ Fun fact: ...I'm always willing to learn more
 
 <!--
 **Shessy101/shessy101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
